@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+temp
+explorations
+src
+coverage
+*.log
+dist
+__tests__
